@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.blank{
+    background: rgb(0,0);
+    text-align:justify-all;
+    margin: 15px;
+     font-size:35px;
+    
+}
+.blank ul{
+    display:;
+    list-style: none;
+    color:#ffff;
+}
+.blank ul li{
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+.blank ul li a
+{
+   text-decoration: none;
+    color: white;
+    
+}
+.active, .blank ul li :hover{
+    background:#2bab0d;
+    border-radius:3px;
+}

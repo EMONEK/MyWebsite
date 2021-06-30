@@ -1,0 +1,36 @@
+body{
+    background-image: url('../pic/243733-P3GL4F-578.jpg');
+    background-repeat:no-repeat;
+    background-size:3000px 1500px;
+}
+.blank{
+    width: 100px;
+    height:500px;
+     
+}
+marquee {
+    top: 100px;position: static; box-sizing: border-box; animation: marquee 1s;
+}
+marquee h2{
+    font-size: 30px;
+}
+.link{
+    margin: 50px;
+    
+}
+.link h6 a{
+    margin-right: 30px;
+}
+table{
+     font-size:25px;
+}
+h1{
+    color: red;
+     font-size:40px;
+}
+h4{
+    margin-bottom:0px;
+    margin-left: 950px;
+    margin-right: 950px;
+    margin-top: 0px;
+}

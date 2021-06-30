@@ -1,0 +1,19 @@
+.blank{
+    margin: 150px;
+}
+body{
+    background-color: azure;
+    margin: 100px;
+}
+h2{
+    color: green;
+    font-size: 40px;
+}
+h3{
+    color: black;
+    font-size:35px;
+}
+h1{
+    color: red;
+     font-size:45px;
+}
